@@ -46,7 +46,7 @@
 //            child: Text("Skip",style: TextStyle(color: Colors.white),)),
 //         )
 //       ],
-//     ),
+//     ),fhfh
 //     );
 //   }
 // }
